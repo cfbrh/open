@@ -1,0 +1,119 @@
+.search-list-section{
+    width: 100%;
+    height: 100vh;
+    background: #333333;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+}
+
+.search-list-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 20px;
+    margin: 130px 50px 50px 50px;
+}
+
+.product-card {
+    border: 15px solid #d5be8b;
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+    background: #d5be8b;
+    margin: 0 10px 10px 0;
+}
+
+
+.product-card:nth-child(even){
+    border-color: #190c05;
+    background: #190c05;
+}
+
+.product-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+
+.product-title {
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+    color: #333;
+}
+
+
+.price{
+    position: absolute;
+    font-family: 'lato', sans-serif;
+    font-weight: bold;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 50px;
+    opacity: 0;
+    transition: .5s;
+    margin-bottom: 12px;
+}
+
+.product-card:hover .price{
+    opacity: 1;
+}
+
+.buy-btn,
+.cart-btn {
+    background-color: #fff;
+    color: #d5be8b;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.buy-btn:hover,
+.cart-btn:hover {
+    background-color: #d5be8b;
+}
+
+.pagination {
+    display: flex;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    margin-top: 20px;
+}
+
+.pagination button {
+    background-color: #d5be8b;
+    color: #fff;
+    width: 80px;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 0 5px;
+    transition: background-color 0.3s ease;
+}
+
+.pagination button:hover {
+    background-color: #190c05;
+}
+
+#currentPage {
+    margin: 0 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fff;
+}
+

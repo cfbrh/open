@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ThriftUStore: Edit Account</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/form.css">
+</head>
+<body>
+    <nav class="navbar"></nav>
+    <img src="img/loading.gif" class="loader" alt="">
+    <section class="form-section">
+        <div class="form-container">
+            <div class='form'>
+                <h1 class="form-heading">Edit Account</h1>
+                <form id="editAccountForm">
+                    <input type="text" autocomplete="off" id="newName" placeholder="New Full Name">
+                    <input type="password" autocomplete="off" id="newPassword" placeholder="Password">
+                    <input type="text" autocomplete="off" id="newAddress" placeholder="Address">
+                    <input type="text" autocomplete="off" id="newZipCode" placeholder="Zip Code">
+                    <input type="text" autocomplete="off" id="newState" placeholder="State">
+                    <input type="text" autocomplete="off" id="newCity" placeholder="City">
+                    <input type="text" autocomplete="off" id="newDescription" placeholder="Description">
+                    <span class="error">This is an error.</span>
+                    <button class="submit-btn">Save</button>
+                </form>
+            </div>
+            <img src="img/signup-bg.png" class="form-img" alt="">
+        </div>
+    </section>
+
+    <script src="js/common.js"></script>
+    <script src="js/edit-account.js"></script>
+    <script src="js/nav.js"></script>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+</body>
+</html>

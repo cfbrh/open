@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ThriftUStore: Signup Here</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/form.css">
+</head>
+<body>
+    <img src="img/loading.gif" class="loader" alt="">
+    <nav class="navbar"></nav>
+    <section class="form-section">
+        <div class="form-container">
+            <div class='form'>
+                <h1 class="form-heading">new here, sign up here</h1>
+                <form id="signupForm">
+                    <input type="text" autocomplete="off" id="name" placeholder="Full Name">
+                    <input type="email" autocomplete="off" id="email" placeholder="Email">
+                    <input type="password" autocomplete="off" id="password" placeholder="Password">
+                    <span class="error">This is an error.</span>
+                    <button class="submit-btn">Sign Up</button>
+                    <a href="/login" class="other-form-link">Already have an account? Log in here.</a>
+                    <a href="#" class="google-signup-link" onclick="startGoogleSignIn()">Sign up with Google.</a>
+                </form>
+            </div>
+            <img src="img/signup-bg.png" class="form-img" alt="">
+        </div>
+    </section>
+
+    <script src="js/common.js"></script>
+    <script src="js/form.js"></script>
+    <script src="js/nav.js"></script>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+
+</body>
+</html>
+

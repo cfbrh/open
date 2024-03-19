@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ThriftUStore: Search results</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/search.css">
+    <link rel="stylesheet" href="css/product-list.css">
+</head>
+<body>
+
+    <!-- navbar -->
+    <nav class="navbar bg"></nav>
+
+    <!-- search prodcuts -->
+    <header class="search-list-section">
+        <div class="search-list-container" id="search-results">
+        <!-- Product Cards will be here
+            <div class="product-card">
+                   <img src="img/product-1.png" class="product-img1" alt="">
+                   <p class="product-title1">lights</p>
+                   <p class="price1">$ 12</p>
+            </div> -->
+        </div>
+
+        <!-- Pagination Controls -->
+        <div class="pagination">
+            <button onclick="changePage(-1)">Previous</button>
+            <span id="currentPage">1</span>
+            <button onclick="changePage(1)">Next</button>
+        </div>
+    </header>
+
+    <script src="js/nav.js"></script>
+    <script src="js/home.js"></script>
+    <!-- <script src="js/search.js"></script>
+    <script src="js/pro+prolist+sear.js"></script>-->
+    <script>
+        // Extract search term from the URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const searchTerm = urlParams.get('searchTerm');
+
+        if (searchTerm) {
+            // Perform the search with the extracted term
+            fetch(`http://127.0.0.1:5000/items/search?title=${encodeURIComponent(searchTerm)}`)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! Status: ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    // Handle the search results data
+                    console.log('Search results:', data);
+
+                    // Display search results on the page
+                    const searchResultsContainer = document.getElementById('search-results');
+                    searchResultsContainer.innerHTML = '';
+
+                    data.items.forEach(item => {
+                        // product card
+                        const itemCard = document.createElement('div');
+                        itemCard.innerHTML = `
+                            <a href="#" onclick="navigateToProduct('${item._id}')" class="product-link">
+                                <div class="product-card">
+                                    <img src="data:image/png;base64,${item.imageData}" class="product-img" alt="${item.title}">
+                                    <p class="product-title">${item.title}</p>
+                                    <p class="price">$ ${item.price}</p>
+                                </div>
+                            </a>
+                        `;
+                        searchResultsContainer.appendChild(itemCard);
+                    });
+                })
+                .catch(error => {
+                    console.error('Error performing search:', error);
+                });
+        }
+    </script>
+</body>
+</html>
+

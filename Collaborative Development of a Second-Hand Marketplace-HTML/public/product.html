@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ThriftUStore: Product page</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/product.css">
+</head>
+<body>
+
+    <!-- navbar -->
+    <nav class="navbar dark"></nav>
+
+    <!-- product detail -->
+    <section class="product-section" id="product-details">
+        <img src="" class="product-image" alt="" id="product-image">
+        <div class="product-detail">
+            <h1 class="product-title" id="product-title"></h1>
+            <p class="product-owner" id="product-owner"></p>
+            <!--<div class="ratings">
+                <img src="img/fill star.png" class="star" alt="">
+                <img src="img/fill star.png" class="star" alt="">
+                <img src="img/fill star.png" class="star" alt="">
+                <img src="img/fill star.png" class="star" alt="">
+                <img src="img/no fill star.png" class="star" alt="">
+                <span class="rating-count">The ower's previous rating by other users</span>
+            </div>-->
+            <p class="price" id="product-price"></p>
+            <!--<div class="btn-container">
+                <button class="product-btn wishlist-btn" onclick="toggleWishlist()">Add to wishlist</button>
+                <button class="product-btn mark-sold-btn" onclick="markAsSold()">Mark as Sold</button>
+            </div>-->
+            <!-- mark as sold -->
+            <!--<div id="sold-modal" class="modal">
+                <div class="modal-content">
+                    <span class="close" onclick="closeSoldModal()">&times;</span>
+                    <p>Please enter the buyer's email:</p>
+                    <input type="text" id="buyer-email">
+                    <button onclick="confirmSold()">Confirm</button>
+                </div>
+            </div>-->
+            <!-- Buyer gives rating here -->
+            <h1 class="section-title"></h1>
+            <!--<input type="text" class="review-headline" placeholder="review headline">
+            <textarea placeholder="review" class="review-field"></textarea>
+            <p class="rating-text">how much you like the product?</p>
+            <div class="star-container" id="rating-stars">
+                <img src="img/no fill star.png" class="rating-star" alt="">
+                <img src="img/no fill star.png" class="rating-star" alt="">
+                <img src="img/no fill star.png" class="rating-star" alt="">
+                <img src="img/no fill star.png" class="rating-star" alt="">
+                <img src="img/no fill star.png" class="rating-star" alt="">
+            </div>
+            <button class="add-rating-btn" onclick="submitRating()>Submit Rating</button>-->
+    </section>
+
+    <section class="detail-des">
+        <h1 class="section-title">Details</h1>
+        <p class="des" id="product-details-description"></p>
+    </section>
+
+    <!-- Q&A section -->
+    <section class="qna-section">
+        <h1 class="section-title">Comment</h1>
+
+        <!-- Question form -->
+        <div class="question-form">
+            <!--<h1 class="ask-question">Ask a question:</h1> -->
+            <div class="editable-container">
+                <p class="ask-question" contenteditable="true" data-placeholder="Type your question here..."></p>
+            </div>
+            <button class="product-btn ask-btn">Submit</button>
+        </div>
+
+        <!-- Previous Q&A -->
+        <div class="previous-qna">
+            <div class="qna-item" data-question-id="123">
+                <p class="question">Q: What are the dimensions of the sofa?</p>
+                <p class="answer">A: The dimensions are 80 inches x 35 inches.</p>
+                <button class="delete-btn" onclick="deleteQuestion(123)">Delete</button>
+            </div>
+        </div>
+    </section>
+
+
+
+    <!-- review -->
+    <!--<section class="review-section">
+        <h1 class="section-title">Reviews</h1>
+        <div class="review-container">
+            <div class="review-card">
+                <div class="user-dp" data-rating="5.0"><img src="img/user 1.png" alt=""></div>
+                <h2 class="review-title">best quality more than my expectation</h2>
+                <p class="review">add</p>
+            </div>
+            <div class="review-card">
+                <div class="user-dp" data-rating="5.0"><img src="img/user 2.png" alt=""></div>
+                <h2 class="review-title">on time</h2>
+                <p class="review">add</p>
+            </div>
+            <div class="review-card">
+                <div class="user-dp" data-rating="5.0"><img src="img/user 3.png" alt=""></div>
+                <h2 class="review-title">helpful</h2>
+                <p class="review">add</p>
+            </div>
+            <div class="review-card">
+                <div class="user-dp" data-rating="5.0"><img src="img/user 4.png" alt=""></div>
+                <h2 class="review-title">very easy to find the product I want</h2>
+                <p class="review">add</p>
+            </div>
+        </div>
+    </section>-->
+
+    <script src="js/home.js"></script>
+    <!-- <script src="js/product.js"></script> -->
+    <script src="js/nav.js"></script>
+    <script src="js/pro+prolist+sear.js"></script>
+
+
+</body>
+</html>
+
