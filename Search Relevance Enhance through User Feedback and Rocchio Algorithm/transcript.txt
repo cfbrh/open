@@ -1,0 +1,547 @@
+wz2647@cs6111-instance:~$ python3 main.py --query "per se"
+Parameters:
+Client key  = AIzaSyBEGzhnRJLxeoW_JowF0_BXrowPsOSf7Yk
+Engine key  = 811402363ffc54fc3
+Wanted precision  = 0.9
+Query  = per se
+===========================================================
+Google Search Results:
+Result 1
+  title: Per Se | Thomas Keller Restaurant Group
+  url:https://www.thomaskeller.com/perseny
+  description: Per Se. Per Se Front Door. center. About. About; Restaurant · Team · Info & Directions · Gift Experiences · Reservations; Menus & Stories. Menus & Stories
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 2
+  title: Perse Definition & Meaning - Merriam-Webster
+  url:https://www.merriam-webster.com/dictionary/perse
+  description: The meaning of PERSE is of a dark grayish blue resembling indigo. How to use perse in a sentence. Did you know?
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 3
+  title: Per Se - New York, NY | Tock
+  url:https://www.exploretock.com/perse
+  description: Opened in 2004, Per Se is Thomas Keller's acclaimed interpretation of The French Laundry in the Deutsche Bank Center at Columbus Circle.
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 4
+  title: Per Se – New York - a MICHELIN Guide Restaurant
+  url:https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/per-se
+  description: Per Se – a Three Stars: Exceptional cuisine restaurant in the 2023 MICHELIN Guide USA. The MICHELIN inspectors' point of view, information on prices, ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 5
+  title: Per Se (@perseny) • Instagram photos and videos
+  url:https://www.instagram.com/perseny/
+  description: 269K Followers, 199 Following, 943 Posts - See Instagram photos and videos from Per Se (@perseny)
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 6
+  title: per se - Wiktionary, the free dictionary
+  url:https://en.wikipedia.org/wiki/wikt:per_se
+  description: From Latin per sē (“by itself”), from per (“by, through”) and sē (“itself, himself, herself, themselves”).
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 7
+  title: PER SE | definition in the Cambridge English Dictionary
+  url:https://dictionary.cambridge.org/us/dictionary/english/per-se
+  description: PER SE meaning: 1. by or of itself: 2. by or of itself: 3. by or of itself: . Learn more.
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 8
+  title: Per Se (restaurant) - Wikipedia
+  url:https://en.wikipedia.org/wiki/Per_Se_(restaurant)
+  description: Per Se (restaurant) ... Per Se is a New American and French restaurant located at The Shops at Columbus Circle, on the fourth floor of the Deutsche Bank Center at ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 9
+  title: James Perse Los Angeles
+  url:https://www.jamesperse.com/
+  description: James Perse. Women. Women; Apparel. Apparel Main Menu; New Arrivals · At Home Essentials · Classics · Dresses/Jumpsuits · Sweaters/Cashmere · T-shirts.
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 10
+  title: per se | Wex | US Law | LII / Legal Information Institute
+  url:https://www.law.cornell.edu/wex/per_se
+  description: Primary tabs. Latin for “by itself,” in other words, inherently. For example, in tort law, a statutory violation is negligence per se. One of the elements a ...
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+
+Feedback:
+Query: per se
+Number of HTML files in 10 result files: 10
+Precision: 0.5
+Update two words: restaurant michelin
+===========================================================
+Parameters:
+Client key  = AIzaSyBEGzhnRJLxeoW_JowF0_BXrowPsOSf7Yk
+Engine key  = 811402363ffc54fc3
+Wanted precision  = 0.9
+Query  = se restaurant michelin per
+===========================================================
+Google Search Results:
+Result 1
+  title: Per Se – New York - a MICHELIN Guide Restaurant
+  url:https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/per-se
+  description: Per Se – a Three Stars: Exceptional cuisine restaurant in the 2023 MICHELIN Guide USA. The MICHELIN inspectors' point of view, information on prices, ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 2
+  title: Per Se | Thomas Keller Restaurant Group
+  url:https://www.thomaskeller.com/perseny
+  description: Private Dining & Events · Per Se. Per Se Front Door. center. About. About; Restaurant · Team · Info & Directions · Gift Experiences · Reservations; Menus & ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 3
+  title: Per Se (restaurant) - Wikipedia
+  url:https://en.wikipedia.org/wiki/Per_Se_(restaurant)
+  description: Per Se was awarded three stars ("Exceptional cuisine, worth a special journey") in the 2006 inaugural Michelin Guide to New York City, and has maintained that ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 4
+  title: Per Se - New York, NY | Tock
+  url:https://www.exploretock.com/perse
+  description: ... restaurant is Chef Keller's second three-Michelin-starred property featuring Chef's tasting menu and a vegetable tasting menu using classic French technique ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 5
+  title: My Stagè at 3 Starred Michelin Restaurant, Per Se - Lovefoodmore ...
+  url:https://lovefoodmore.com/per-se/
+  description: Sep 28, 2019 ... “Congratulations, Chef Corey would like to offer you a position as a commis at Per Se” A message I received from Elaine Smyth. She was whom I ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 6
+  title: Per Se (@perseny) • Instagram photos and videos
+  url:https://www.instagram.com/perseny/
+  description: Per Se. Restaurant. Chef Thomas Keller's 3-Star Michelin restaurant overlooking Columbus Circle & Central Park located in New York City. 10 Columbus Cir, Fl ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 7
+  title: Video: Per Se - Our Most Expensive Meal Ever
+  url:https://andershusa.com/per-se-new-york-thomas-keller-most-expensive-meal-ever/
+  description: Mar 15, 2022 ... Chef Thomas Keller's flagship NYC restaurant, Per Se, is his tribute to French Laundry on the east coast. It has held three Michelin stars ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 8
+  title: Per Se: NYC Michelin Star Restaurant
+  url:https://www.adventureaffinity.com/per-se-nyc-michelin-star-restaurant/
+  description: Jun 28, 2015 ... Per Se now accepts reservations exactly two months ahead to the day, precisely at 10 a.m., when the reservation line opens. Otherwise, try your ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 9
+  title: Michelin-Starred Restaurant Per Se Racks Up C Rating From Health ...
+  url:https://www.cbsnews.com/newyork/news/michelin-starred-restaurant-per-se-racks-up-c-rating-from-health-department/
+  description: Mar 4, 2014 ... The Michelin-starred Thomas Keller establishment got 42 violation points when it was inspected Feb. 19, city health department records ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 10
+  title: NYC Michelin Stars 2022: The Full List - Eater NY
+  url:https://ny.eater.com/2022/10/6/23389696/michelin-restaurants-nyc-stars-2022
+  description: Oct 6, 2022 ... Three-stars restaurants. Chef's Table at Brooklyn Fare. Eleven Madison Park. Le Bernardin. Masa. Per Se. Two-star restaurants. Al Coro (new).
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+
+Feedback:
+Query: se restaurant michelin per
+Number of HTML files in 10 result files: 10
+Precision: 1.0
+
+
+
+
+
+wz2647@cs6111-instance:~$ python3 main.py --query "wojcicki"
+Parameters:
+Client key  = AIzaSyBEGzhnRJLxeoW_JowF0_BXrowPsOSf7Yk
+Engine key  = 811402363ffc54fc3
+Wanted precision  = 0.9
+Query  = wojcicki
+===========================================================
+Google Search Results:
+Result 1
+  title: Susan Wojcicki - Wikipedia
+  url:https://en.wikipedia.org/wiki/Susan_Wojcicki
+  description: Susan Wojcicki ... Susan Diane Wojcicki (/wʊˈtʃɪtski/ woo-CHITS-kee; born July 5, 1968) is an American business executive who was the chief executive officer (CEO) ...
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 2
+  title: Susan Wojcicki (@SusanWojcicki) / X
+  url:https://twitter.com/susanwojcicki?lang=en
+  description: Susan Wojcicki's posts ... 's team and innovative solutions in sustainability and security to enable transparency and accountability for countries, communities ...
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 3
+  title: Susan Wojcicki (@susanwojcicki) • Instagram photos and videos
+  url:https://www.instagram.com/susanwojcicki/?hl=en
+  description: 55K Followers, 124 Following, 40 Posts - See Instagram photos and videos from Susan Wojcicki (@susanwojcicki)
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 4
+  title: Esther Wojcicki
+  url:https://www.facebook.com/esther.wojcicki/
+  description: Psi and was thriving academically. At home, he would tell us endless stories of his life and friends at Berkeley. Marco's life was cut too short. And we are all
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 5
+  title: Esther Wojcicki (@heywoj) • Instagram photos and videos
+  url:https://www.instagram.com/heywoj/?hl=en
+  description: 7661 Followers, 1578 Following, 1870 Posts - See Instagram photos and videos from Esther Wojcicki (@heywoj)
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 6
+  title: Susan Wojcicki - YouTube | LinkedIn
+  url:https://www.linkedin.com/in/susan-wojcicki-b136a99
+  description: View Susan Wojcicki's profile on LinkedIn, the world's largest professional community. Susan has 2 jobs listed on their profile. See the complete profile on ...
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 7
+  title: Former YouTube CEO Susan Wojcicki's son dies at UC Berkeley ...
+  url:https://abc7chicago.com/marco-troper-former-youtube-ceo-susan-wojcicki-son-dies-uc-berkeley-student/14441325/
+  description: 18 hours ago ... Troper was later pronounced dead by emergency responders from the Berkeley Fire Department, the university said. YouTube CEO Susan Wojcicki ...
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 8
+  title: Ed Wojcicki - Retired... but Consulting and Writing - Retired | LinkedIn
+  url:https://www.linkedin.com/in/ed-wojcicki-bb02abb
+  description: Author/co-author of three books, freelance writer and editor, author of a wide range of articles on topics ranging from Illinois government to Henri Nouwen to ...
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 9
+  title: Son of Former YouTube CEO Susan Wojcicki Found Dead at UC ...
+  url:https://people.com/son-of-susan-wojcicki-found-dead-at-uc-berkeley-8584597
+  description: 2 days ago ... Marco Troper, a UC Berkeley student who was the 19-year-old son of former YouTube CEO Susan Wojcicki, was found dead on his college campus ...
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 10
+  title: Former YouTube CEO's son found dead at UC Berkeley
+  url:https://www.nbcnews.com/news/us-news/former-youtube-ceos-son-found-dead-uc-berkeley-rcna139355
+  description: 2 days ago ... The 19-year-old son of former YouTube CEO Susan Wojcicki was found dead at the University of California, Berkeley, on Tuesday, ...
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+
+Feedback:
+Query: wojcicki
+Number of HTML files in 10 result files: 10
+Precision: 0.0
+
+
+
+
+
+wz2647@cs6111-instance:~$ python3 main.py --query "cases"
+Parameters:
+Client key  = AIzaSyBEGzhnRJLxeoW_JowF0_BXrowPsOSf7Yk
+Engine key  = 811402363ffc54fc3
+Wanted precision  = 0.9
+Query  = cases
+===========================================================
+Google Search Results:
+Result 1
+  title: CASES: Home
+  url:https://www.cases.org/
+  description: From court and program offices in the Bronx, Brooklyn, and Manhattan, CASES provides community-based alternatives to jail and prison. These programs address ...
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 2
+  title: cases | International Criminal Court
+  url:https://www.icc-cpi.int/cases
+  description: Banda. At large. Case also involved Saleh Mohammed Jerbo Jamus but proceedings against him were terminated on 4 October 2013 following his passing. On 7 March ...
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 3
+  title: COVID - Coronavirus Statistics - Worldometer
+  url:https://www.worldometers.info/coronavirus/
+  description: Daily and weekly updated statistics tracking the number of COVID-19 cases, recovered, and deaths. Historical data with cumulative charts, graphs, ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 4
+  title: CASETiFY: Show Your Colors
+  url:https://www.casetify.com/
+  description: CASETiFY - We make the most sustainable yet protective phone cases for iPhone 15 / iPhone 15 Pro / iPhone 15 Plus / iPhone 15 Pro Max and tech accessories.
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 5
+  title: Cases | INTERNATIONAL COURT OF JUSTICE
+  url:https://www.icj-cij.org/cases
+  description: Main navigation ... The Court has a twofold role: to settle, in accordance with international law, legal disputes submitted to it by States (contentious cases) ...
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 6
+  title: Automated Case Information
+  url:https://acis.eoir.justice.gov/
+  description: EOIR Automated Case Information ... Please check https://www.justice.gov/eoir-operational-status for up to date closures. ... Welcome to the Automated Case ...
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 7
+  title: Maryland Judiciary Case Search
+  url:https://casesearch.courts.state.md.us/
+  description: Confidential records and information will not be returned in your search results. The information displayed on this Web Site is generated from computerized ...
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 8
+  title: 2023-2024 Term | Oyez
+  url:https://www.oyez.org/cases
+  description: US Supreme Court cases from the 2023-2024 term.
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 9
+  title: Measles Cases and Outbreaks | CDC
+  url:https://www.cdc.gov/measles/cases-outbreaks.html
+  description: Measles cases in 2019 · From January 1 to December 31, 2019, 1,274* individual cases of measles were confirmed in 31 states. · This is the greatest number of ...
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+Result 10
+  title: Public Access to Court Electronic Records | PACER: Federal Court ...
+  url:https://pacer.uscourts.gov/
+  description: Search for a case in the federal court where the case was filed, or; Search a nationwide index of federal court cases. The PACER Service Center can assist you ...
+  fileformat: 
+
+Relevant (Y/N)? n
+===========================================================
+
+Feedback:
+Query: cases
+Number of HTML files in 10 result files: 10
+Precision: 0.1
+Update two words: statistics covid
+===========================================================
+Parameters:
+Client key  = AIzaSyBEGzhnRJLxeoW_JowF0_BXrowPsOSf7Yk
+Engine key  = 811402363ffc54fc3
+Wanted precision  = 0.9
+Query  = statistics covid cases
+===========================================================
+Google Search Results:
+Result 1
+  title: CDC COVID Data Tracker: Home
+  url:https://covid.cdc.gov/
+  description: CDC's home for COVID-19 data. Visualizations, graphs, and data in one easy-to-use website.
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 2
+  title: COVID - Coronavirus Statistics - Worldometer
+  url:https://www.worldometers.info/coronavirus/
+  description: Coronavirus Cases: 703,471,314. view by country. Deaths: 6,984,533. Recovered: 674,227,426. Active Cases. 22,259,355. Currently Infected Patients. 22,223,644 ( ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 3
+  title: COVID-19: Latest Data - NYC Health
+  url:https://www.nyc.gov/site/doh/covid/covid-19-data.page
+  description: Cases, Hospitalizations and Deaths. The data below show daily numbers of cases, hospitalizations and deaths over the past three months. Due to delays in ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 4
+  title: WHO COVID-19 dashboard: COVID-19 cases
+  url:https://covid19.who.int/
+  description: The latest data for coronavirus (COVID-19) cases from the WHO COVID-19 dashboard.
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 5
+  title: Data & Surveillance | CDC
+  url:https://www.cdc.gov/coronavirus/2019-ncov/covid-19-data-and-surveillance.html
+  description: COVID Data Basics. Hospitalizations · Deaths · Emergency Visits · Vaccination ... Reporting COVID-19 Cases · Electronic Case Reporting · COVIDTracer & COVIDTracer ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 6
+  title: COVID-19 Map - Johns Hopkins Coronavirus Resource Center
+  url:https://coronavirus.jhu.edu/map.html
+  description: Coronavirus COVID-19 Global Cases by the Center for Systems Science and ... Attribute the data to the "COVID-19 Data Repository by the Center for Systems ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 7
+  title: COVID-19 Data for Pennsylvania
+  url:https://www.health.pa.gov/topics/disease/coronavirus/pages/cases.aspx
+  description: ... COVID-19 case data is no longer required to be reported to the Department of Health, making the case data less relevant for disease tracking purposes.
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 8
+  title: LA County Daily COVID-19 Data - LA County Department of Public ...
+  url:http://publichealth.lacounty.gov/media/coronavirus/data/
+  description: Updated once per week on Thursdays. Overview Graphs. Overview Table. Cases/Deaths. TK-12 Schools.
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 9
+  title: COVID-19 Reporting | Mass.gov
+  url:https://www.mass.gov/info-details/covid-19-reporting
+  description: The COVID-19 Dashboard includes data on city/town COVID-19 activity, confirmed and probable cases of COVID-19, confirmed and probable deaths related to ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 10
+  title: COVID-19 Data In Virginia - Coronavirus
+  url:https://www.vdh.virginia.gov/coronavirus/see-the-numbers/covid-19-in-virginia/
+  description: COVID-19 in Virginia (past 6 months). Case Data Demographics. Demographic data is an important indicator used to understand ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+
+Feedback:
+Query: statistics covid cases
+Number of HTML files in 10 result files: 10
+Precision: 1.0
+
+
+
+
+
+wz2647@cs6111-instance:~$ python3 main.py --query "Information Retrieval pdf"
+Parameters:
+Client key  = AIzaSyBEGzhnRJLxeoW_JowF0_BXrowPsOSf7Yk
+Engine key  = 811402363ffc54fc3
+Wanted precision  = 0.9
+Query  = Information Retrieval pdf
+===========================================================
+Google Search Results:
+Result 1
+  title: machine-learning-books/Introduction to Information Retrieval 2009 ...
+  url:https://github.com/kingkarlito/machine-learning-books/blob/master/Introduction%20to%20Information%20Retrieval%202009.pdf
+  description: this is a fork of collection of books for machine learning. - machine-learning-books/Introduction to Information Retrieval 2009.pdf at master ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 2
+  title: Introduction to Information Retrieval
+  url:https://nlp.stanford.edu/IR-book/information-retrieval-book.html
+  description: Manning, Prabhakar Raghavan and Hinrich Schütze, Introduction to Information Retrieval, Cambridge University Press. ... PDF of the book for online viewing (with ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 3
+  title: Pre-training Methods in Information Retrieval
+  url:https://arxiv.org/abs/2111.13853
+  description: Nov 27, 2021 ... Download PDF. Abstract:The core of information retrieval (IR) is to identify relevant information from large-scale resources and return it as ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 4
+  title: Neural Approaches to Conversational Information Retrieval
+  url:https://arxiv.org/abs/2201.05176
+  description: Jan 13, 2022 ... Download PDF. Abstract:A conversational information retrieval (CIR) system is an information retrieval (IR) system with a conversational ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 5
+  title: NevIR: Negation in Neural Information Retrieval
+  url:https://arxiv.org/abs/2305.07614
+  description: May 12, 2023 ... Download PDF. Abstract:Negation is a common everyday phenomena and ... Although the Information Retrieval (IR) community has adopted LMs as ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+Result 6
+  title: BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of ...
+  url:https://arxiv.org/abs/2104.08663
+  description: Apr 17, 2021 ... ... Information Retrieval Models. Authors:Nandan Thakur, Nils Reimers, Andreas Rücklé, Abhishek Srivastava, Iryna Gurevych. Download a PDF of the ...
+  fileformat: 
+
+Relevant (Y/N)? y
+===========================================================
+
+Feedback:
+Query: Information Retrieval pdf
+Number of HTML files in 10 result files: 6
+Precision: 1.0
+wz2647@cs6111-instance:~$ 
+
+
+
